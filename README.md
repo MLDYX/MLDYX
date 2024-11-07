@@ -2,7 +2,7 @@
 - 👀 I’m interested in CS, App and Software Development
 - 🌱 I’m currently learning C / C++ 
 - 💞️ I already know Python
-- 📫 How to reach me: wrzepka.business@gmail.com
+- 📫 More Info: www.wrzepka.eu
 
 <!---
 MLDYX/MLDYX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
