@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wiktor @MLDYX Rzepka
-https://multi-com.eu/,landing_page.html
+-  www.multi-com.eu
 
 <!---
 MLDYX/MLDYX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
