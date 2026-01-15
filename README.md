@@ -24,19 +24,6 @@ for professional and security-sensitive environments.
 
 <div align="center">
 
-## Focus
-
-• Digital forensics & cybersecurity tooling  
-• Secure system and software design  
-• High-performance native applications  
-• GUI tools accelerating business workflows  
-
-</div>
-
----
-
-<div align="center">
-
 ## Technical Stack
 
 ### Languages
