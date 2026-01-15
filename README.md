@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/security/security.png" width="90" alt="Security Logo" />
+<!-- <img src="https://raw.githubusercontent.com/github/explore/main/topics/security/security.png" width="90" alt="Security Logo" /> -->
 
 # Wiktor Rzepka  
 **Software Engineer · Digital Forensics · Computer Science (Engineering)**  
