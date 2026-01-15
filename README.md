@@ -1,15 +1,3 @@
-<div align="center">
-
-<!-- <img src="https://raw.githubusercontent.com/github/explore/main/topics/security/security.png" width="90" alt="Security Logo" /> -->
-
-# Wiktor Rzepka  
-**Software Engineer · Digital Forensics · Computer Science (Engineering)**  
-
-AGH University of Science and Technology · Kraków  
-Engineer at **multi-com.eu**
-
-<br/>
-
 [![Website](https://img.shields.io/badge/Website-multi--com.eu-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white)](https://www.multi-com.eu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-MLDYX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MLDYX)
