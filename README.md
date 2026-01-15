@@ -75,24 +75,3 @@ for professional and security-sensitive environments.
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge)
 
 </div>
-
----
-
-<div align="center">
-
-## Principles
-
-Security by design  
-Deterministic, auditable software  
-Clean architecture over shortcuts  
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MLDYX&show_icons=true&hide_title=true&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MLDYX&layout=compact&hide_border=true" height="150" />
-
-</div>
