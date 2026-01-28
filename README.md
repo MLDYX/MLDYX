@@ -12,7 +12,7 @@
 
 ## About
 
-Computer Science Engineering student at **AGH Kraków**  
+Computer Science in Engineering student at **AGH Kraków**  
 Software Engineer focused on **Digital Forensics, Cybersecurity, and security-critical software**.
 
 Engineer at **multi-com.eu**, delivering **robust, production-ready tools**  
