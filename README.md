@@ -1,7 +1,7 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-multi--com.eu-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white)](https://www.multi-com.eu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-WiktorRzepka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-WiktorRzepka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/wiktorrzepka)
 [![GitHub](https://img.shields.io/badge/GitHub-MLDYX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MLDYX)
 
 </div>
