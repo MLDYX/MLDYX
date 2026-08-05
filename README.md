@@ -15,7 +15,7 @@
 Computer Science in Engineering student at **AGH Kraków**  
 Software Engineer focused on **Digital Forensics, Cybersecurity, and security-critical software**.
 
-Engineer at **multi-com.eu**, delivering **robust, production-ready tools**  
+Engineer at **Multi-COM Sp. z o.o.**, delivering **robust, production-ready tools**  
 for professional and security-sensitive environments.
 
 </div>
