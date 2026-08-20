@@ -37,6 +37,7 @@ for professional and security-sensitive environments.
 <br/>
 
 ### Focus
+![Mobile Forensics](https://img.shields.io/badge/Mobile-Forensics-111111?style=for-the-badge)
 ![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-0A0A0A?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge)
 
